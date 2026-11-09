@@ -1,0 +1,14 @@
+{
+  "name": "cs-geni-projects",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Capstone briefs for the CS-Geni courses.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}
